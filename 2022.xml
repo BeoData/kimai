@@ -1,0 +1,340 @@
+[
+{
+    "Datum": "2022-01-01T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Neujahr",
+        "Laender": [
+            {
+                "Name": "Wien",
+                "Abkuerzung": "Austria"
+            }
+        ]
+    }
+},
+{
+    "Datum": "2022-01-06T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Heilige Drei Könige",
+        "Laender": [
+        {
+            "Name": "Wien",
+            "Abkuerzung": "Austria"
+        }]
+    }
+},
+{
+    "Datum": "2022-04-18T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Ostermontag 2023",
+        "Laender": [
+        {
+            "Name": "Wien",
+            "Abkuerzung": "Austria"
+        }]
+    }
+},
+{
+    "Datum": "2022-05-01T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Staatsfeiertag",
+        "Laender": [
+        {
+            "Name": "Wien",
+            "Abkuerzung": "Austria"
+        }]
+    }
+},
+{
+    "Datum": "2022-05-26T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Christi Himmelfahrt",
+        "Laender": [
+        {
+            "Name": "Wien",
+            "Abkuerzung": "Austria"
+        }]
+    }
+},
+{
+    "Datum": "2022-06-06T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Pfingstmontag",
+        "Laender": [
+        {
+            "Name": "Wien",
+            "Abkuerzung": "Austria"
+        }]
+    }
+},
+{
+    "Datum": "2022-06-16T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Fronleichnam",
+        "Laender": [
+        {
+            "Name": "Wien",
+            "Abkuerzung": "Austria"
+        }]
+    }
+},
+{
+    "Datum": "2022-08-15T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Mariä Himmelfahrt",
+        "Laender": [
+        {
+            "Name": "Wien",
+            "Abkuerzung": "Austria"
+        }]
+    }
+},
+{
+    "Datum": "2022-10-26T00:00:00",
+    "Feiertag":
+    {
+            "Name" : "Nationalfeiertag",
+        "Laender": [
+        {
+            "Name": "Wien",
+            "Abkuerzung": "Austria"
+        }]
+    }
+},
+{
+    "Datum": "2022-11-01T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Allerheiligen",
+        "Laender": [
+        {
+            "Name": "Wien",
+            "Abkuerzung": "Austria"
+        }]
+    }
+},
+{
+    "Datum": "2022-12-08T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Mariä Empfängnis",
+        "Laender": [
+        {
+            "Name": "Wien",
+            "Abkuerzung": "Austria"
+        }]
+    }
+},
+{
+    "Datum": "2022-12-25T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Christtag",
+        "Laender": [
+        {
+            "Name": "Wien",
+            "Abkuerzung": "Austria"
+        }]
+    }
+},
+{
+    "Datum": "2022-12-26T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Stefanitag",
+        "Laender": [
+        {
+            "Name": "Wien",
+            "Abkuerzung": "Austria"
+        }]
+    }
+},
+{
+    "Datum": "2022-01-01T00:00:00",
+    "Feiertag":
+     {
+        "Name": "Nova Godina",
+        "Laender": [
+        {
+            "Name": "Belgrade",
+            "Abkuerzung": "Serbia"
+        }]
+    }
+},
+{
+    "Datum": "2022-01-02T00:00:00",
+    "Feiertag":
+     {
+        "Name": "Nova Godina 2",
+        "Laender": [
+        {
+            "Name": "Belgrade",
+            "Abkuerzung": "Serbia"
+        }]
+    }
+},
+{
+    "Datum": "2022-01-03T00:00:00",
+    "Feiertag":
+     {
+        "Name": "Nova Godina 3",
+        "Laender": [
+        {
+            "Name": "Belgrade",
+            "Abkuerzung": "Serbia"
+        }]
+    }
+},
+{
+    "Datum": "2022-01-07T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Božić",
+        "Laender": [
+        {
+        "Name": "Belgrade",
+        "Abkuerzung": "Serbia"
+        }]
+    }
+},
+{
+    "Datum": "2022-02-15T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Sretenje - Dan državnosti",
+        "Laender": [
+        {
+        "Name": "Belgrade",
+        "Abkuerzung": "Serbia"
+        }]
+    }
+},
+{
+    "Datum": "2022-02-16T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Sretenje - Dan državnosti 2",
+        "Laender": [
+        {
+        "Name": "Belgrade",
+        "Abkuerzung": "Serbia"
+        }]
+    }
+},
+{
+    "Datum": "2022-04-22T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Vaskršnji praznici",
+        "Laender": [
+    {
+        "Name": "Belgrade",
+        "Abkuerzung": "Serbia"
+        }]
+    }
+},
+{
+    "Datum": "2022-04-23T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Vaskršnji praznici 1",
+        "Laender": [
+    {
+        "Name": "Belgrade",
+        "Abkuerzung": "Serbia"
+        }]
+    }
+},
+{
+    "Datum": "2022-04-24T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Vaskršnji praznici 2",
+        "Laender": [
+    {
+        "Name": "Belgrade",
+        "Abkuerzung": "Serbia"
+        }]
+    }
+},
+{
+    "Datum": "2022-04-25T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Vaskršnji praznici 3",
+        "Laender": [
+    {
+        "Name": "Belgrade",
+        "Abkuerzung": "Serbia"
+        }]
+    }
+},
+{
+    "Datum": "2022-05-01T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Praznik rada",
+        "Laender": [
+    {
+        "Name": "Belgrade",
+        "Abkuerzung": "Serbia"
+        }]
+    }
+},
+{
+    "Datum": "2022-05-02T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Praznik rada 1",
+        "Laender": [
+    {
+        "Name": "Belgrade",
+        "Abkuerzung": "Serbia"
+        }]
+    }
+},
+{
+    "Datum": "2022-05-03T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Praznik rada 2",
+        "Laender": [
+    {
+        "Name": "Belgrade",
+        "Abkuerzung": "Serbia"
+        }]
+    }
+},
+{
+    "Datum": "2022-10-05T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Jom Kippur",
+        "Laender": [
+    {
+        "Name": "Belgrade",
+        "Abkuerzung": "Serbia"
+        }]
+    }
+},
+{
+    "Datum": "2022-11-11T00:00:00",
+    "Feiertag":
+    {
+        "Name": "Dan primirja u Prvom svetskom ratu",
+        "Laender": [
+        {
+            "Name": "Belgrade",
+            "Abkuerzung": "Serbia"
+        }]
+    }
+}
+
+]

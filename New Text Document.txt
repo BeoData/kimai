@@ -1,0 +1,1 @@
+https://holiday-api.hmr-services.de/?method=getHolidaysByStateAndYear&state=AUT_oesterreich&year=2023
